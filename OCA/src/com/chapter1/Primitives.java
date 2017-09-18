@@ -25,10 +25,6 @@ public class Primitives {
 		long oneMillion = 1_000_000;
 		System.out.println("Un milione: " + oneMillion);
 		
-		//legal identifiers
-		int $islegal;
-		int _islegal;
-		int __islegal;
 	}
 
 }
